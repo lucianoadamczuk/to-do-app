@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "PlayFair Display";
+  src: url(./title/PlayfairDisplay-Bold.ttf);
+}
+
+@font-face {
+  font-family: "NotoSans Condensed Light";
+  src: url(./text/NotoSans_Condensed-Light.ttf);
+}
+
+@font-face {
+  font-family: "NotoSns Condensed Light Italic";
+  src: url(./text/NotoSans_Condensed-LightItalic.ttf);
+  font-style: italic;
+}
+
+:root {
+  --font-title: "PlayFair Display";
+  --font-paragraph: "NotoSans Condensed Light";
+}
