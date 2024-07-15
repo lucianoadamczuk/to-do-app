@@ -6,8 +6,7 @@
   align-items: end;
 
   border-radius: var(--rounded-normal);
-  box-shadow: 10px 10px 32px var(--color-dark),
-    -31px -31px 32px var(--color-muted);
+  box-shadow: 10px 10px 20px var(--color-muted);
 }
 
 .datesContainer {

@@ -1,10 +1,10 @@
 import "./App.css";
-import { Note } from "./components";
+import { ContainerNotes } from "./containers";
 
 function App() {
   return (
     <>
-      <Note />
+      <ContainerNotes />
     </>
   );
 }
