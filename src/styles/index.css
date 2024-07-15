@@ -7,3 +7,5 @@
 
 /* -------------------------------- utilities ------------------------------- */
 @import "./utilities/container.css";
+@import "./utilities/spaces.css";
+@import "./utilities/rounded.css";

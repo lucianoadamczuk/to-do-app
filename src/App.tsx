@@ -1,7 +1,12 @@
 import "./App.css";
+import { Note } from "./components";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Note />
+    </>
+  );
 }
 
 export default App;
